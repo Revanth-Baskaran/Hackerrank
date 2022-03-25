@@ -1,7 +1,11 @@
 # Hackerrank
 This repository contains my Hackerrank certifications.
 
-### [Certificates](https://github.com/Revanth-Baskaran/Hackerrank/tree/main/Certficates)
+## My Hackerrank Profile
+
+Revanth Baskaran - [@revaboss97](https://www.hackerrank.com/revaboss97)
+
+### Certificates
 Skill | Level | Certificate Link
 --- | --- | ---
 Javascript | Basic | [JS Basic Certificate](https://github.com/Revanth-Baskaran/Hackerrank/blob/main/Certficates/JavaScript%20(Basic).png)
