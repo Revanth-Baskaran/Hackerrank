@@ -3,7 +3,7 @@ This repository contains my Hackerrank certifications.
 
 ## My Hackerrank Profile
 
-Revanth Baskaran - [@revaboss97](https://www.hackerrank.com/revaboss97)
+Revanth Baskaran - [@revanth_baskaran](https://www.hackerrank.com/revanth_baskaran)
 
 ### Certificates
 Skill | Level | Certificate Link
